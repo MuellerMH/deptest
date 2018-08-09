@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/MuellerMH/deptest/internal/pkg"
+	"../internal/stuff"
+
 	"github.com/sirupsen/logrus"
 )
 
